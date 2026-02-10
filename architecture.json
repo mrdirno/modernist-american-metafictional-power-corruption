@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-metafictional-power-corruption",
+  "title": "The Gravity of a Borrowed Room",
+  "tagline": "A man confesses to a lie that will destroy his mentor, revealing how the pursuit of power is merely the acceleration of a fatal, inevitable pull.",
+  "target_words": 66566,
+  "actual_words": 66566,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Intellect",
+    "The Metafiction of Power",
+    "The Inevitability of Consequence",
+    "The Theft of Identity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Lie of the First Motion",
+      "words": 6051
+    },
+    {
+      "ch": 2,
+      "title": "Clara’s Shale-Glass Eyes",
+      "words": 6051
+    },
+    {
+      "ch": 3,
+      "title": "The Architect of Conscience",
+      "words": 6051
+    },
+    {
+      "ch": 4,
+      "title": "A Plan, A Confession, A Ghost",
+      "words": 6051
+    },
+    {
+      "ch": 5,
+      "title": "Victory’s Hinged Door",
+      "words": 6051
+    },
+    {
+      "ch": 6,
+      "title": "The Echo of a Concluded Lie",
+      "words": 6051
+    },
+    {
+      "ch": 7,
+      "title": "The Vector’s False Freedom",
+      "words": 6051
+    },
+    {
+      "ch": 8,
+      "title": "Borrowed Warmth, Imminent Cold",
+      "words": 6051
+    },
+    {
+      "ch": 9,
+      "title": "To Cease Being a Fact",
+      "words": 6051
+    },
+    {
+      "ch": 10,
+      "title": "The Listening Silence",
+      "words": 6051
+    },
+    {
+      "ch": 11,
+      "title": "An Invitation from a God",
+      "words": 6051
+    }
+  ]
+}
